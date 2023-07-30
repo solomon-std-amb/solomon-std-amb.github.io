@@ -58,7 +58,7 @@ addEventListener("resize", () => {
 			<h1 class="c-topbar__title-text">
 				<span class="c-title--first-line">SOLOMON</span>
 				<br>
-				<span class="c-title--second-line">Student Ambassadors</span>
+				<span class="c-title--second-line">Society Ambassadors</span>
 			</h1>
 		</div>
 		<button
@@ -100,7 +100,7 @@ addEventListener("resize", () => {
 				<h1 class="c-topbar__title-text">
 					<span class="c-title--first-line">SOLOMON</span>
 					<br>
-					<span class="c-title--second-line">Student Ambassadors</span>
+					<span class="c-title--second-line">Society Ambassadors</span>
 				</h1>
 			</div>
 			<div class="c-topbar__tab-buttons">
@@ -132,12 +132,12 @@ addEventListener("resize", () => {
 				:src="LogoPath"
 				:width="logoSize"
 				:height="logoSize"
-				alt="Solomon Student Ambassador logo"
+				alt="Solomon Society Ambassador logo"
 			>
 			<h1 class="c-topbar__title-text">
 				<span class="c-title--first-line">SOLOMON</span>
 				<br>
-				<span class="c-title--second-line">Student Ambassadors</span>
+				<span class="c-title--second-line">Society Ambassadors</span>
 			</h1>
 		</div>
 		<div class="c-topbar__tab-buttons">

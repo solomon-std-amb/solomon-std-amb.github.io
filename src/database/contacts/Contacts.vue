@@ -66,26 +66,21 @@ onUnmounted(() => {
 			<template #header>
 				Ex-committees
 			</template>
-			<b>Chairperson:</b>
-			<br>
-			Siu ming
-			<br>
-			Siu Ming College
+			<b>Chairperson</b>
+			<br>Andrew So
+			<br>Harvard Business School Alumni
 			<br><br>
-
-			<b>Vice Chairperson:</b>
-			<br>
-			Siu mei
-			<br>
-			Siu Mei College
+			<b>President</b>
 			<br><br>
-
-			<b>Internal Secretary:</b>
-			<br>
-			Siu man
-			<br>
-			Siu Man College
+			<b>Vice-President</b>
 			<br><br>
+			<b>Internal Secretary</b>
+			<br><br>
+			<b>External Secretary</b>
+			<br><br>
+			<b>Publication Secretary</b>
+			<br><br>
+			<b>Treasurer</b>
 		</Card>
 	</App>
 </template>

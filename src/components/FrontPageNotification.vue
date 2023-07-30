@@ -67,9 +67,9 @@ const { notification } = defineProps<{
 }
 
 @keyframes a-notif-bg-spin {
-	0% { transform: translate(-50%, -50%) rotateY(45deg); }
-	50% { transform: translate(-50%, -50%) rotateY(225deg); }
-	100% { transform: translate(-50%, -50%) rotateY(405deg); }
+	0% { transform: translate(-50%, -50%) rotateY(0deg); }
+	50% { transform: translate(-50%, -50%) rotateY(180deg); }
+	100% { transform: translate(-50%, -50%) rotateY(360deg); }
 }
 
 @keyframes a-notif-bg-popout {
